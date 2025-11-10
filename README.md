@@ -1,81 +1,82 @@
-# Hi there, I'm Varun! 👋
+# Hello, I'm Varun Kumar S! 👋
 
-### *A passionate student developer on a journey to build and innovate.*
+### 🎓 BE Computer Science Student | Web Development Enthusiast | Problem Solver
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a highly motivated final-year (or substitute year) **[Your Major/Degree, e.g., B.Tech in Computer Science and Engineering]** student with a deep-seated passion for **[e.g., full-stack development, machine learning, or cloud computing]**.
+I am a highly motivated **B.Tech in Computer Science** student at **AJ Institute of Engineering & Technology, Mangalore**. I specialize in modern web and software development, driven by a passion for creating digital solutions and leveraging technology to solve real-world problems.
 
-My goal is to leverage my academic knowledge and practical skills to create impactful and scalable software solutions. I thrive in environments where I can learn new technologies, solve complex problems, and collaborate with like-minded individuals.
+My foundational skill set is rooted in core programming languages, and I possess practical expertise in building dynamic web applications. I am committed to continuous learning and building scalable, impactful digital solutions.
 
-* **🌱 I’m currently focused on:** Diving deeper into **[Specific Technology, e.g., Next.js, Docker, or Advanced Algorithms]**.
-* **💡 I’m interested in:** Building projects related to **[e.g., Web Development, Data Science, or Fintech]**.
-* **🎓 I’m looking for:** **[e.g., an Internship opportunity in Summer 2026, or Full-time roles in Software Development]**.
-* **💬 Ask me about:** **[e.g., JavaScript, Python, system design basics, or my latest personal project]**.
+* **🏫 Education:** B.Tech in Computer Science, AJ Institute of Engineering & Technology, Mangalore.
+* **💡 Passion:** Coding, creating digital solutions, and building impactful projects like **CosmiCanvas**.
+* **🚀 Seeking:** Opportunities for internships and real-world experience in **Web Development** and **Software Engineering**.
+* **💬 Fun Fact:** My hobby is **Railfanning 🚆**.
 
 ---
 
-## 🛠️ My Tech Stack
+## 🛠️ Skills & Technologies
 
-I am continuously expanding my toolkit, but here is a snapshot of the technologies and languages I work with:
+Based on my current projects and academic focus, here is the technology stack I work with:
 
 | Category | Technologies |
 | :--- | :--- |
-| **Core Languages** | `Python` • `JavaScript (ES6+)` • `C/C++` • `Java` • `HTML5/CSS3` |
-| **Frontend** | `React` • `Tailwind CSS` • `Bootstrap` • `Redux` |
-| **Backend & Databases** | `Node.js` • `Express.js` • `Django/Flask` • `MongoDB` • `PostgreSQL/MySQL` |
-| **Tools & Platforms** | `Git` • `GitHub` • `Docker` • `VS Code` • `AWS/Azure/GCP` (Specify which ones) |
+| **Programming** | `C` • `C++` • `Python` • `Java` • `JavaScript` |
+| **Web Development** | `HTML5` • `CSS3` • `JavaScript` • `jQuery` |
+| **Database** | `MySQL` |
+| **Tools & Platforms** | `Git` • `GitHub` • `VS Code` • `Linux` • `Eclipse IDE` |
 
 ---
 
-## 🚀 Projects I'm Proud Of
+## 🚀 Projects
 
-Here are a few highlights of what I've been building. Check out the repositories for more details on architecture, features, and implementation!
+My projects demonstrate my practical application of academic learning, from concept to deployment.
 
-### 1. [Project Name 1 - e.g., Task Management Application]
-* **Description:** A full-stack web application built with the **[e.g., MERN stack]** to manage personal and team tasks with features like due dates, priority labels, and progress tracking.
-* **Key Features:** User Authentication (JWT), Real-time Updates, Custom Data Filtering.
-* **[Link to Repository]**
+### 1. CosmiCanvas
+* **Description:** A single-page infographic that explores the nature of reality from scientific and philosophical perspectives. This project showcases my abilities in frontend design and data presentation.
+* **Skills Demonstrated:** HTML5, CSS3, JavaScript.
+* **[[Click to View](https://varun987-a11.github.io/Cosmic-Canvas/)]** | **[[GitHub Repo](https://github.com/Varun987-a11/Cosmic-Canvas)]**
 
-### 2. [Project Name 2 - e.g., Simple Machine Learning Model]
-* **Description:** A machine learning model developed in **[e.g., Python using Scikit-learn/TensorFlow]** for **[e.g., predicting housing prices or classifying images]**.
-* **Key Concepts:** Data Preprocessing, Model Training, Evaluation Metrics, Deployment (Optional: e.g., via Streamlit).
-* **[Link to Repository]**
+### 2. DoctorAppointmentScheduler
+* **Description:** A Database Management System (DBMS)-based web application developed using PHP for scheduling and managing doctor appointments, focusing on efficient data handling.
+* **Skills Demonstrated:** PHP, MySQL, Web Development.
+* **[[GitHub Repo](https://github.com/Varun987-a11/DoctorAppointmentScheduler)]**
 
-### 3. [Project Name 3 - Your University/Coursework Project]
-* **Description:** The **[Course Name]** final project—a **[type of system, e.g., decentralized file storage system]** designed to understand core principles of **[e.g., networking/distributed systems]**.
-* **Key Learning:** **[Mention 1-2 critical skills learned]** (e.g., concurrency, low-level socket programming).
-* **[Link to Repository]**
+### 3. DisasterLink
+* **Description:** An Emergency Help and Resource Locator application designed to quickly connect users with necessary aid and resources during a disaster event.
+* **[[GitHub Repo](https://github.com/Varun987-a11/disasterlink)]**
+
+### In-Progress Projects
+
+* **Noisescope:** A Crowdsourced Noise Mapping Application.
+* **Canteenly:** A Smart Web-Based Canteen Food Ordering System.
 
 ---
 
 ## 📊 GitHub Stats
 
-Showcasing my activity, commitment, and preferred languages on GitHub.
-
-*(These images will update automatically to reflect your activity. Note: Private contributions are counted!)*
+Showcasing my activity, commitment, and preferred languages on the platform.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=varun987-a11&show_icons=true&theme=buefy&count_private=true&hide_border=true" alt="Varun's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=varun987-a11&show_icons=true&theme=buefy&count_private=true&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=333" alt="Varun's GitHub Stats" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varun987-a11&theme=buefy&hide_border=true" alt="Varun's GitHub Streak" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varun987-a11&layout=compact&theme=buefy&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varun987-a11&layout=compact&theme=buefy&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=333" alt="Top Languages" />
 </p>
 
 ---
 
 ## 📬 Let's Connect!
 
-I'm always open to discussing new opportunities, collaborating on interesting projects, or just networking! Feel free to reach out.
+I am actively building my network and seeking opportunities to apply my skills. Let's connect!
 
 | Platform | Link |
 | :--- | :--- |
-| **LinkedIn** | [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](**[YOUR LINKEDIN PROFILE URL HERE]**) |
-| **Email** | [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:**[YOUR EMAIL ADDRESS HERE]**) |
-| **Portfolio/Website** | [![Website Badge](https://img.shields.io/badge/-Portfolio-333333?style=flat-square&logo=google-chrome&logoColor=white)](**[YOUR PORTFOLIO/WEBSITE URL HERE (if you have one)]**) |
+| **Portfolio/Website** | [![Website Badge](https://img.shields.io/badge/-Portfolio-333333?style=flat-square&logo=google-chrome&logoColor=white)](**[https://Varun987-a11.github.io]**) |
+| **Email** | [![Gmail Badge](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:varunkumarsaravu@gmail.com) |
+| **LinkedIn** | [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](**[https://www.linkedin.com/in/varun-kumar-s/]**) |
+| **Resume** | (**[https://varun987-a11.github.io/resume.html]**) |
 
 ***
-*P.S. Every commit is a chance to learn something new. Happy Coding!*
+*© 2025 Varun Kumar S | Committed to continuous learning and impactful contributions.*

@@ -76,7 +76,7 @@ I am actively building my network and seeking opportunities to apply my skills. 
 | **Portfolio/Website** | [![Website Badge](https://img.shields.io/badge/-Portfolio-333333?style=flat-square&logo=google-chrome&logoColor=white)](**[https://Varun987-a11.github.io]**) |
 | **Email** | [![Gmail Badge](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:varunkumarsaravu@gmail.com) |
 | **LinkedIn** | [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](**[https://www.linkedin.com/in/varun-kumar-s/]**) |
-| **Resume** | (**[https://varun987-a11.github.io/resume.html]**) |
+| **Resume** | **[https://varun987-a11.github.io/resume.html]** |
 
 ***
 *© 2025 Varun Kumar S | Committed to continuous learning and impactful contributions.*

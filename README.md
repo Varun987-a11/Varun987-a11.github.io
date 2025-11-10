@@ -50,7 +50,6 @@ My projects demonstrate my practical application of academic learning, from conc
 
 ### In-Progress Projects
 
-* **Noisescope:** A Crowdsourced Noise Mapping Application.
 * **Canteenly:** A Smart Web-Based Canteen Food Ordering System.
 
 ---

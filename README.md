@@ -1,6 +1,6 @@
 # Hello, I'm Varun Kumar S! 👋
 
-### 🎓 BE Computer Science Student | Web Development Enthusiast | Problem Solver
+### 🎓 BE Computer Science Student | Web Development Enthusiast | Data Solutions Developer
 
 ---
 
@@ -8,11 +8,11 @@
 
 I am a highly motivated **B.Tech in Computer Science** student at **AJ Institute of Engineering & Technology, Mangalore**. I specialize in modern web and software development, driven by a passion for creating digital solutions and leveraging technology to solve real-world problems.
 
-My foundational skill set is rooted in core programming languages, and I possess practical expertise in building dynamic web applications. I am committed to continuous learning and building scalable, impactful digital solutions.
+My foundational skill set is rooted in core programming languages, and I possess practical expertise in building dynamic web applications. My latest project, **NoiseScope**, demonstrates my ability to integrate advanced browser APIs for real-time data collection and visualization. I am committed to continuous learning and building scalable, impactful digital solutions.
 
 * **🏫 Education:** B.Tech in Computer Science, AJ Institute of Engineering & Technology, Mangalore.
-* **💡 Passion:** Coding, creating digital solutions, and building impactful projects like **CosmiCanvas**.
-* **🚀 Seeking:** Opportunities for internships and real-world experience in **Web Development** and **Software Engineering**.
+* **💡 Passion:** Coding, creating digital solutions, and building impactful projects like **NoiseScope** and CosmiCanvas.
+* **🚀 Seeking:** Opportunities for internships and real-world experience in **Full-Stack Web Development** and **Software Engineering**.
 * **💬 Fun Fact:** My hobby is **Railfanning 🚆**.
 
 ---
@@ -24,7 +24,9 @@ Based on my current projects and academic focus, here is the technology stack I 
 | Category | Technologies |
 | :--- | :--- |
 | **Programming** | `C` • `C++` • `Python` • `Java` • `JavaScript` |
-| **Web Development** | `HTML5` • `CSS3` • `JavaScript` • `jQuery` |
+| **Web Development** | `HTML5` • `CSS3` • `JavaScript` • `jQuery` • **`PHP`** |
+| **Data & APIs** | **`Web Audio API`** • **`Geolocation API`** • `AJAX` |
+| **Mapping/Charts** | **`Leaflet.js`** • **`Chart.js`** |
 | **Database** | `MySQL` |
 | **Tools & Platforms** | `Git` • `GitHub` • `VS Code` • `Linux` • `Eclipse IDE` |
 
@@ -34,17 +36,23 @@ Based on my current projects and academic focus, here is the technology stack I 
 
 My projects demonstrate my practical application of academic learning, from concept to deployment.
 
-### 1. CosmiCanvas
+### 1. NoiseScope (Crowdsourced Ambient Noise Mapping)
+* **Description:** A full-stack web application designed for real-time monitoring and visualization of ambient noise pollution on campus using a crowdsourcing model. It leverages user smartphones as low-cost sensors for data collection.
+* **Key Achievements:** Integrated the **Web Audio API** for client-side dB calculation, implemented a secure **PHP/MySQL** backend for data persistence, and developed a real-time Admin Dashboard using **Leaflet.js** and **Chart.js** for spatial and temporal analysis.
+* **Skills Demonstrated:** PHP, MySQL, Web Audio API, Geolocation API, Leaflet.js, Chart.js, HTML5/CSS3.
+* **[[GitHub Repo](https://github.com/Varun987-a11/NoiseScope-Project)]** *— (Note: Update this URL to your actual repo link)*
+
+### 2. CosmiCanvas
 * **Description:** A single-page infographic that explores the nature of reality from scientific and philosophical perspectives. This project showcases my abilities in frontend design and data presentation.
 * **Skills Demonstrated:** HTML5, CSS3, JavaScript.
 * **[[Click to View](https://varun987-a11.github.io/Cosmic-Canvas/)]** | **[[GitHub Repo](https://github.com/Varun987-a11/Cosmic-Canvas)]**
 
-### 2. DoctorAppointmentScheduler
+### 3. DoctorAppointmentScheduler
 * **Description:** A Database Management System (DBMS)-based web application developed using PHP for scheduling and managing doctor appointments, focusing on efficient data handling.
 * **Skills Demonstrated:** PHP, MySQL, Web Development.
 * **[[GitHub Repo](https://github.com/Varun987-a11/DoctorAppointmentScheduler)]**
 
-### 3. DisasterLink
+### 4. DisasterLink
 * **Description:** An Emergency Help and Resource Locator application designed to quickly connect users with necessary aid and resources during a disaster event.
 * **[[GitHub Repo](https://github.com/Varun987-a11/disasterlink)]**
 
@@ -59,9 +67,9 @@ My projects demonstrate my practical application of academic learning, from conc
 Showcasing my activity, commitment, and preferred languages on the platform.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=varun987-a11&show_icons=true&theme=buefy&count_private=true&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=333" alt="Varun's GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varun987-a11&layout=compact&theme=buefy&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=333" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=varun987-a11&show_icons=true&theme=buefy&count_private=true&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=333" alt="Varun's GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varun987-a11&layout=compact&theme=buefy&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=333" alt="Top Languages" />
 </p>
 
 ---
